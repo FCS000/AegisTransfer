@@ -7,7 +7,7 @@
 > Military-grade encrypted file transfers over SSH/SFTP with GUI
 
 <div align="center">
-
+<img src="https://imgur.com/nwvVJ9W" width="600" alt="AegisTransfer">
 </div>
 
 ## ✨ Features
